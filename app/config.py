@@ -1,0 +1,5 @@
+MODEL_PATH = "app/artifacts/best_model_lightgbm.pkl"
+SCALER_PATH = "app/artifacts/scaler.pkl"
+TARGET_ENCODER_PATH = "app/artifacts/target_encoder.pkl"
+COLUMNS_PATH = "app/artifacts/model_columns.pkl"
+ENCODER_PATH = "app/artifacts/feature_label_encoders.pkl"

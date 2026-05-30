@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# MLFlow
+mlruns/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw datasets
+data/raw/
+
+# Large model files
+outputs/models/gnb_model.pkl
+outputs/models/lr_model.pkl
+outputs/models/svm_model.pkl
+outputs/models/rf_model.pkl
+outputs/models/xgb_model.pkl
+
+# Keep deployment artifacts
+!outputs/models/best_model_lightgbm.pkl
+!outputs/models/scaler.pkl
+!outputs/models/target_encoder.pkl
+!outputs/models/feature_label_encoders.pkl
+!outputs/models/model_columns.pkl
