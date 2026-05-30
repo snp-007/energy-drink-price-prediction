@@ -1,4 +1,5 @@
 # Beverage Price Range Prediction
+<a href="https://energy-drink-price-prediction-snp.streamlit.app/">Try the App</a>
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
